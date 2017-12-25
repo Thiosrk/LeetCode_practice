@@ -3,6 +3,6 @@ Storage and Analyse for practice
 
 ## Catalog
 
-1. [2017_12_25_HammingDistance](/src/HammingDistance)
+1. [2017_12_25_HammingDistance](/src/HammingDistance/Solution.java)
 
 [[Top]](#readme)
