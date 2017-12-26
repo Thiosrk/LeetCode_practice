@@ -27,6 +27,7 @@ public class Solution {
      * The above arrows point to positions where the corresponding bits are different.
      */
 
+    //LeetCode Runtime: 12 ms
     public int hammingDistance(int x, int y) {
         int xor = x^y;
         int n = 1;
@@ -45,7 +46,6 @@ public class Solution {
 //            System.out.println("xor2 : "+xor);
             n = 2*n;
         }
-
         return result;
     }
 
