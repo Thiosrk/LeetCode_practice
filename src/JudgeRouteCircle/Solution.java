@@ -21,8 +21,6 @@ public class Solution {
      *
      * Input: "LL"
      * Output: false
-     *
-     *
      */
 
     //LeetCode Runtime: 11 ms
@@ -88,6 +86,10 @@ public class Solution {
      *}
      *return (bin['U'] == bin['D']) && (bin['L'] == bin['R']);
      *}
+     */
+
+    /**
+     * 分析：减少四则运算可以减少运行时间
      */
 
 }

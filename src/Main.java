@@ -1,4 +1,4 @@
-import HammingDistance.Solution;
+import SelfDividingNumbers.Solution;
 
 public class Main {
 
@@ -6,7 +6,7 @@ public class Main {
 
         Solution solution = new Solution();
 
-        System.out.println("Result is : "+solution.hammingDistance(1,4));
+        System.out.println("Result is : "+solution.selfDividingNumbers(66,708));
 
 
     }
