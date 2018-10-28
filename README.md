@@ -9,7 +9,7 @@ Storage and Analyse for practice
 4. [2017_12_28_Merge Two Binary Trees](src/MergeTwoBinaryTrees/Solution.java)
 5. [2017_12_29_Array Partition I](src/ArrayPartitionI/Solution.java)
 
-##Other
+## Other
 
 1. [2018_10_28_TopN](src/Other/TopN.java)
 
